@@ -1,0 +1,186 @@
+h1{
+	color:red;
+	}
+	.rr{
+		color:green;
+	}
+.vv{
+	text-align:center;
+	
+}	
+.dd{text-align:left;
+}
+	
+		.ss{text-align:right;
+		}
+		.ff{
+			background:black;
+			color:white;
+		}
+		.gg{text-align:left;color:blue;
+		}
+		.pp{color:yellow;
+			
+		}
+		h4{
+			text-decoration:overline;
+		}
+		h2.hh{
+			text-decoration:line-through;
+		}
+		h3{
+			text-decoration:underline;
+		}
+		h5{
+			text-decoration:overline underline;
+		}
+		p.a{
+			text-align-last:right;
+		}
+		p.b{
+			text-align-last:center;
+			
+		}
+		p.c{
+			text-align-last:justify;
+		}
+		p.ex1{
+			direction:rtl;
+			unicode-bidi:bidi-override;
+		
+		}
+		h.aa{
+			text-decoration:overline; color:blue;
+		}
+		h.bb{
+			text-decoration:line-through; color:green;
+		}
+		h.cc{
+			text-decoration:underline;color:yellow;
+		}
+		p.aa{
+			text-decoration:overline underline;color:pink;
+		}- 
+		h2.o1{
+			text-decoration-line:underline;
+			text-decoration-style:solid;/* this default*/
+		}
+		h2.o2{
+			text-decoration-line: underline;
+			text-decoration-style: double;
+		}
+		h3.o3{
+			text-decoration-line: underline;
+			text-decoration-style:dotted;
+			
+		}
+		h2.c1{
+			text-decoration-line: underline;
+			text-decoration-style:dashed;
+		}
+		h2.c2{
+			text-decoration-line: underline;
+			text-decoration-style:wavy;
+		}
+		h3.c3{
+			text-decoration-line: underline;
+			text-decoration-color:red;
+			text-decoration-style:wavy;
+			
+		}
+		p.uppercase {
+  
+                     text-transform: uppercase;
+        }
+		p.lowercase {
+			        text-transform: lowercase;
+		}
+		p.capitalize{
+			text-transform:capitalize;
+		}
+		p{
+			text-indent:50px;
+		}
+		h3.uu{
+			letter-spacing:5px;
+		}
+		h3.oo{
+			letter-spacing:-2px;
+		}
+		p.small{
+			line-height:0.7;
+		}
+		p.big{
+			line-height:1.8;
+		}
+		p.white{
+			white-space:nowrap;
+		}
+		p.word{
+			word-spacing:10px;
+		}
+		p.two{
+			word-spacing:-7px;
+		}
+		h2.bc1{
+			color:blue;
+			text-shadow:2px 2px 4px #000000;
+		}
+		h2.bc2{
+			text-shadow:0 0 3px #FF0000;
+		}
+		h2.bc3{
+			text-shadow:0 0 3px #FF0000,0 0 5px #0000FF;
+		}
+		h2.bc4{
+			color:yellow;
+			text-shadow:1px 1px 2px red,0 0 25px blue,0 0 5px black;
+		}
+		h3.tt1{
+			color:green;
+		}
+		p.tt2{
+			color:blue;
+		}
+		h2.br1{
+			border: 2px solid green;
+		}
+		p.br2{
+			border: 2px solid blue;
+		}
+		h2.cv1{
+			background-color:rgb(255,99,71);
+		}
+		h2.cv2{
+			background-color:#ff6347;
+		}
+		h2.cv3{
+			background-color:rgba(255,99,71,0.5);
+		}
+		h2.cv4{
+			background-color:hsla(9,100%,64%,0.5);
+		}
+		h2.cv5{
+			background-color:hsla(9,100%,64%);
+		}
+		
+
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+
+
+		
+		
+		
+		
+		
+		
+		
